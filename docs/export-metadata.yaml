@@ -1,0 +1,35 @@
+title: 'Från XLPM till agil IT-utveckling: arkitektens nya arbetssätt i statlig myndighet'
+subtitle: ''
+author: Erland Lindmark
+language: sv
+difficulty: experienced
+audience: Lösningsarkitekter och IT-arkitekter i statlig myndighet
+book_type: textbook/handbook
+edition: '1'
+version: '1.6'
+date: '2026-05-12'
+rights: All rights reserved
+publisher: ''
+cover_image: ''
+chapters:
+- chapters/00-inledning.md
+- chapters/01-nar-kartan-inte-langre-ritas-fardigt-i-forvag.md
+- chapters/02-arkitektens-ansvar-forandras-men-forsvinner-inte.md
+- chapters/03-fran-tidig-sakerhet-till-lopande-beslutsformaga.md
+- chapters/04-nar-behovsbilden-ar-osaker.md
+- chapters/05-nar-kravarbete-blir-lopande-snarare-an-avslutat.md
+- chapters/06-nar-teamet-vill-borja-bygga-innan-arkitekturen-ar-klar.md
+- chapters/07-nar-design-inte-langre-ar-en-separat-fas.md
+- chapters/08-nar-beroenden-bromsar-flodet.md
+- chapters/09-dokumentation-som-stod-for-larande-och-ansvar.md
+- chapters/10-sakerhet-regelefterlevnad-och-arkitektur-i-kortare-cykler.md
+- chapters/11-arkitekturforum-styrning-och-beslut-utan-flaskhalsar.md
+- chapters/12-den-agila-arkitektens-praktiska-verktygslada.md
+exports:
+  epub: true
+  pdf: true
+  markdown: true
+  docx: false
+generated_files:
+  epub: exports/fran-xlpm-till-agil-it-utveckling.epub
+  pdf: exports/fran-xlpm-till-agil-it-utveckling.pdf
